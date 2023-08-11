@@ -3,9 +3,6 @@
   margin: 0;
   padding: 0;
 }
-.App{
-  min-height: 100vh;
-}
 .image_container{
   display: flex;
   flex-wrap: wrap;
